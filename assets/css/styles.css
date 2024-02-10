@@ -41,6 +41,11 @@ article > ul, ol {
     font-weight: 700;
 }
 
+li {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
 section {
     margin: 20px 0;
 }
@@ -99,6 +104,9 @@ tr:not(:last-child) {
 
 .text-dark-raspberry {
     color: var(--Dark-Raspberry);
+    font-weight: 700;
+    font-size: 1.2rem;
+    margin: 5px 0 15px;
 }
 
 .article-rose-white {
